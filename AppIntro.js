@@ -1,6 +1,6 @@
 import assign from 'assign-deep';
 import React, { Component } from 'react';
-import PropTypes from 'prop-types;
+import PropTypes from 'prop-types';
 import {
   StatusBar,
   StyleSheet,
